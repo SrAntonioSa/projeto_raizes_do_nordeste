@@ -1,0 +1,19 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Variaveis de ambiente e segredos
+.env
+
+# Testes
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
